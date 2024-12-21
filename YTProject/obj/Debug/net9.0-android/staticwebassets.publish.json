@@ -1,0 +1,3484 @@
+{
+  "Version": 1,
+  "Hash": "7ixeRfdPoMWLVu+HpDnH3fb3yIwjb/3pGI5RF/wT1UA=",
+  "Source": "YTProject",
+  "BasePath": "/",
+  "Mode": "Root",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "YTProject\\wwwroot",
+      "Source": "YTProject",
+      "ContentRoot": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\",
+      "BasePath": "/",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\5ef0wqaw1v-e5tk7yf482.gz",
+      "SourceId": "YTProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint=e5tk7yf482}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\css\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9sb0w9jnhl",
+      "Integrity": "qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\653bfr1gey-orrfa6dv26.gz",
+      "SourceId": "YTProject",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "YTProject#[.{fingerprint=orrfa6dv26}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\YTProject.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ci9xrhejng",
+      "Integrity": "ZC2JIYOo53g6WY3fTzVWfl3vpM/SOYMBxJc5IXewWzQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\YTProject.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\kn9jj66e9l-8inm30yfxf.gz",
+      "SourceId": "YTProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fbl5ivwo6k",
+      "Integrity": "Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\5ef0wqaw1v-e5tk7yf482.br",
+      "SourceId": "YTProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint=e5tk7yf482}]?.css.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\css\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "ix9166x7gh",
+      "Integrity": "eqlsvw/N8zKnAKc05YDjHT7YIDSUfr5wmQ20CD/lmXo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\653bfr1gey-orrfa6dv26.br",
+      "SourceId": "YTProject",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "YTProject#[.{fingerprint=orrfa6dv26}]?.styles.css.br",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\YTProject.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "5zpt5yxfgh",
+      "Integrity": "PxrWuPMNgOj5QNBIzv4nhKr5E20VwiXR+kfcby6SDIw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\YTProject.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\kn9jj66e9l-8inm30yfxf.br",
+      "SourceId": "YTProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "b4a1wrn6r6",
+      "Integrity": "e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\qrb0ckjw69-9n0rngsnfy.br",
+      "SourceId": "YTProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint=9n0rngsnfy}]?.html.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "knjm20sd4u",
+      "Integrity": "ALGRiqgg4KzpyRL8tgXanBuDbOC/BDfJJae26mQcYUo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\uhr1rk8oou-6gzpyzhau4.br",
+      "SourceId": "YTProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "2o883p7o84",
+      "Integrity": "4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\xfp1hi4u42-orrfa6dv26.br",
+      "SourceId": "YTProject",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "YTProject#[.{fingerprint=orrfa6dv26}]!.bundle.scp.css.br",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\YTProject.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "5zpt5yxfgh",
+      "Integrity": "PxrWuPMNgOj5QNBIzv4nhKr5E20VwiXR+kfcby6SDIw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\YTProject.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\qrb0ckjw69-9n0rngsnfy.gz",
+      "SourceId": "YTProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint=9n0rngsnfy}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6my32t1qx9",
+      "Integrity": "/jexSAoOr01dNZCiN/gPdb8U9WD7C1DWku8eJe4Ja5U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\uhr1rk8oou-6gzpyzhau4.gz",
+      "SourceId": "YTProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "joqzyw7ssu",
+      "Integrity": "LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\xfp1hi4u42-orrfa6dv26.gz",
+      "SourceId": "YTProject",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "YTProject#[.{fingerprint=orrfa6dv26}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\YTProject.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ci9xrhejng",
+      "Integrity": "ZC2JIYOo53g6WY3fTzVWfl3vpM/SOYMBxJc5IXewWzQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\YTProject.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\YTProject.styles.css",
+      "SourceId": "YTProject",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\",
+      "BasePath": "/",
+      "RelativePath": "YTProject#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "orrfa6dv26",
+      "Integrity": "VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\YTProject.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\YTProject.bundle.scp.css",
+      "SourceId": "YTProject",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\",
+      "BasePath": "/",
+      "RelativePath": "YTProject#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "orrfa6dv26",
+      "Integrity": "VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\YTProject.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\css\\app.css",
+      "SourceId": "YTProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e5tk7yf482",
+      "Integrity": "bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "SourceId": "YTProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "YTProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\index.html",
+      "SourceId": "YTProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9n0rngsnfy",
+      "Integrity": "BXMv67hYgg196Xc2j7daJelHVnYcRKxhMXoJ6yhDF4A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\5ef0wqaw1v-e5tk7yf482.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000571102227"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1750"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\5ef0wqaw1v-e5tk7yf482.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000648508431"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1541"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eqlsvw/N8zKnAKc05YDjHT7YIDSUfr5wmQ20CD/lmXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css.br",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\5ef0wqaw1v-e5tk7yf482.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eqlsvw/N8zKnAKc05YDjHT7YIDSUfr5wmQ20CD/lmXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eqlsvw/N8zKnAKc05YDjHT7YIDSUfr5wmQ20CD/lmXo="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css.gz",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\5ef0wqaw1v-e5tk7yf482.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.e5tk7yf482.css",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\5ef0wqaw1v-e5tk7yf482.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000571102227"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1750"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e5tk7yf482"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.e5tk7yf482.css",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\5ef0wqaw1v-e5tk7yf482.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000648508431"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1541"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eqlsvw/N8zKnAKc05YDjHT7YIDSUfr5wmQ20CD/lmXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e5tk7yf482"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.e5tk7yf482.css",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e5tk7yf482"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.e5tk7yf482.css.br",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\5ef0wqaw1v-e5tk7yf482.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eqlsvw/N8zKnAKc05YDjHT7YIDSUfr5wmQ20CD/lmXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e5tk7yf482"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eqlsvw/N8zKnAKc05YDjHT7YIDSUfr5wmQ20CD/lmXo="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.e5tk7yf482.css.gz",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\5ef0wqaw1v-e5tk7yf482.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e5tk7yf482"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\uhr1rk8oou-6gzpyzhau4.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000057250816"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17466"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\uhr1rk8oou-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041844506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css.br",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\uhr1rk8oou-6gzpyzhau4.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17466"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css.gz",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\uhr1rk8oou-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\uhr1rk8oou-6gzpyzhau4.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000057250816"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17466"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\uhr1rk8oou-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041844506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\kn9jj66e9l-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\kn9jj66e9l-8inm30yfxf.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000017661604"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56619"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.br",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\kn9jj66e9l-8inm30yfxf.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\kn9jj66e9l-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.br",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\uhr1rk8oou-6gzpyzhau4.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17466"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.gz",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\uhr1rk8oou-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\kn9jj66e9l-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\kn9jj66e9l-8inm30yfxf.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000017661604"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56619"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map.br",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\kn9jj66e9l-8inm30yfxf.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map.gz",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\kn9jj66e9l-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        }
+      ]
+    },
+    {
+      "Route": "index.9n0rngsnfy.html",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\qrb0ckjw69-9n0rngsnfy.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.003311258278"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "301"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ALGRiqgg4KzpyRL8tgXanBuDbOC/BDfJJae26mQcYUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"BXMv67hYgg196Xc2j7daJelHVnYcRKxhMXoJ6yhDF4A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9n0rngsnfy"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BXMv67hYgg196Xc2j7daJelHVnYcRKxhMXoJ6yhDF4A="
+        }
+      ]
+    },
+    {
+      "Route": "index.9n0rngsnfy.html",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\qrb0ckjw69-9n0rngsnfy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002277904328"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "438"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/jexSAoOr01dNZCiN/gPdb8U9WD7C1DWku8eJe4Ja5U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"BXMv67hYgg196Xc2j7daJelHVnYcRKxhMXoJ6yhDF4A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9n0rngsnfy"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BXMv67hYgg196Xc2j7daJelHVnYcRKxhMXoJ6yhDF4A="
+        }
+      ]
+    },
+    {
+      "Route": "index.9n0rngsnfy.html",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BXMv67hYgg196Xc2j7daJelHVnYcRKxhMXoJ6yhDF4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9n0rngsnfy"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BXMv67hYgg196Xc2j7daJelHVnYcRKxhMXoJ6yhDF4A="
+        }
+      ]
+    },
+    {
+      "Route": "index.9n0rngsnfy.html.br",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\qrb0ckjw69-9n0rngsnfy.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ALGRiqgg4KzpyRL8tgXanBuDbOC/BDfJJae26mQcYUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9n0rngsnfy"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ALGRiqgg4KzpyRL8tgXanBuDbOC/BDfJJae26mQcYUo="
+        }
+      ]
+    },
+    {
+      "Route": "index.9n0rngsnfy.html.gz",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\qrb0ckjw69-9n0rngsnfy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/jexSAoOr01dNZCiN/gPdb8U9WD7C1DWku8eJe4Ja5U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9n0rngsnfy"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/jexSAoOr01dNZCiN/gPdb8U9WD7C1DWku8eJe4Ja5U="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\qrb0ckjw69-9n0rngsnfy.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.003311258278"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "301"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ALGRiqgg4KzpyRL8tgXanBuDbOC/BDfJJae26mQcYUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"BXMv67hYgg196Xc2j7daJelHVnYcRKxhMXoJ6yhDF4A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BXMv67hYgg196Xc2j7daJelHVnYcRKxhMXoJ6yhDF4A="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\qrb0ckjw69-9n0rngsnfy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002277904328"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "438"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/jexSAoOr01dNZCiN/gPdb8U9WD7C1DWku8eJe4Ja5U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"BXMv67hYgg196Xc2j7daJelHVnYcRKxhMXoJ6yhDF4A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BXMv67hYgg196Xc2j7daJelHVnYcRKxhMXoJ6yhDF4A="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BXMv67hYgg196Xc2j7daJelHVnYcRKxhMXoJ6yhDF4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BXMv67hYgg196Xc2j7daJelHVnYcRKxhMXoJ6yhDF4A="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.br",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\qrb0ckjw69-9n0rngsnfy.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ALGRiqgg4KzpyRL8tgXanBuDbOC/BDfJJae26mQcYUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ALGRiqgg4KzpyRL8tgXanBuDbOC/BDfJJae26mQcYUo="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\qrb0ckjw69-9n0rngsnfy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/jexSAoOr01dNZCiN/gPdb8U9WD7C1DWku8eJe4Ja5U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/jexSAoOr01dNZCiN/gPdb8U9WD7C1DWku8eJe4Ja5U="
+        }
+      ]
+    },
+    {
+      "Route": "YTProject.bundle.scp.css",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\xfp1hi4u42-orrfa6dv26.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000742942051"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1345"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PxrWuPMNgOj5QNBIzv4nhKr5E20VwiXR+kfcby6SDIw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 20:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE="
+        }
+      ]
+    },
+    {
+      "Route": "YTProject.bundle.scp.css",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\xfp1hi4u42-orrfa6dv26.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000615384615"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1624"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZC2JIYOo53g6WY3fTzVWfl3vpM/SOYMBxJc5IXewWzQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 20:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE="
+        }
+      ]
+    },
+    {
+      "Route": "YTProject.bundle.scp.css",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\YTProject.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 20:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE="
+        }
+      ]
+    },
+    {
+      "Route": "YTProject.bundle.scp.css.br",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\xfp1hi4u42-orrfa6dv26.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PxrWuPMNgOj5QNBIzv4nhKr5E20VwiXR+kfcby6SDIw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 20:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PxrWuPMNgOj5QNBIzv4nhKr5E20VwiXR+kfcby6SDIw="
+        }
+      ]
+    },
+    {
+      "Route": "YTProject.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\xfp1hi4u42-orrfa6dv26.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZC2JIYOo53g6WY3fTzVWfl3vpM/SOYMBxJc5IXewWzQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 20:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZC2JIYOo53g6WY3fTzVWfl3vpM/SOYMBxJc5IXewWzQ="
+        }
+      ]
+    },
+    {
+      "Route": "YTProject.orrfa6dv26.bundle.scp.css",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\xfp1hi4u42-orrfa6dv26.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000742942051"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1345"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PxrWuPMNgOj5QNBIzv4nhKr5E20VwiXR+kfcby6SDIw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 20:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "orrfa6dv26"
+        },
+        {
+          "Name": "label",
+          "Value": "YTProject.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE="
+        }
+      ]
+    },
+    {
+      "Route": "YTProject.orrfa6dv26.bundle.scp.css",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\xfp1hi4u42-orrfa6dv26.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000615384615"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1624"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZC2JIYOo53g6WY3fTzVWfl3vpM/SOYMBxJc5IXewWzQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 20:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "orrfa6dv26"
+        },
+        {
+          "Name": "label",
+          "Value": "YTProject.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE="
+        }
+      ]
+    },
+    {
+      "Route": "YTProject.orrfa6dv26.bundle.scp.css",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\YTProject.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 20:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "orrfa6dv26"
+        },
+        {
+          "Name": "label",
+          "Value": "YTProject.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE="
+        }
+      ]
+    },
+    {
+      "Route": "YTProject.orrfa6dv26.bundle.scp.css.br",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\xfp1hi4u42-orrfa6dv26.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PxrWuPMNgOj5QNBIzv4nhKr5E20VwiXR+kfcby6SDIw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 20:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "orrfa6dv26"
+        },
+        {
+          "Name": "label",
+          "Value": "YTProject.bundle.scp.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PxrWuPMNgOj5QNBIzv4nhKr5E20VwiXR+kfcby6SDIw="
+        }
+      ]
+    },
+    {
+      "Route": "YTProject.orrfa6dv26.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\xfp1hi4u42-orrfa6dv26.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZC2JIYOo53g6WY3fTzVWfl3vpM/SOYMBxJc5IXewWzQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 20:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "orrfa6dv26"
+        },
+        {
+          "Name": "label",
+          "Value": "YTProject.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZC2JIYOo53g6WY3fTzVWfl3vpM/SOYMBxJc5IXewWzQ="
+        }
+      ]
+    },
+    {
+      "Route": "YTProject.orrfa6dv26.styles.css",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\653bfr1gey-orrfa6dv26.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000615384615"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1624"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZC2JIYOo53g6WY3fTzVWfl3vpM/SOYMBxJc5IXewWzQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 20:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "orrfa6dv26"
+        },
+        {
+          "Name": "label",
+          "Value": "YTProject.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE="
+        }
+      ]
+    },
+    {
+      "Route": "YTProject.orrfa6dv26.styles.css",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\653bfr1gey-orrfa6dv26.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000742942051"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1345"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PxrWuPMNgOj5QNBIzv4nhKr5E20VwiXR+kfcby6SDIw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 20:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "orrfa6dv26"
+        },
+        {
+          "Name": "label",
+          "Value": "YTProject.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE="
+        }
+      ]
+    },
+    {
+      "Route": "YTProject.orrfa6dv26.styles.css",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\YTProject.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 20:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "orrfa6dv26"
+        },
+        {
+          "Name": "label",
+          "Value": "YTProject.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE="
+        }
+      ]
+    },
+    {
+      "Route": "YTProject.orrfa6dv26.styles.css.br",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\653bfr1gey-orrfa6dv26.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PxrWuPMNgOj5QNBIzv4nhKr5E20VwiXR+kfcby6SDIw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 20:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "orrfa6dv26"
+        },
+        {
+          "Name": "label",
+          "Value": "YTProject.styles.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PxrWuPMNgOj5QNBIzv4nhKr5E20VwiXR+kfcby6SDIw="
+        }
+      ]
+    },
+    {
+      "Route": "YTProject.orrfa6dv26.styles.css.gz",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\653bfr1gey-orrfa6dv26.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZC2JIYOo53g6WY3fTzVWfl3vpM/SOYMBxJc5IXewWzQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 20:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "orrfa6dv26"
+        },
+        {
+          "Name": "label",
+          "Value": "YTProject.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZC2JIYOo53g6WY3fTzVWfl3vpM/SOYMBxJc5IXewWzQ="
+        }
+      ]
+    },
+    {
+      "Route": "YTProject.styles.css",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\653bfr1gey-orrfa6dv26.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000615384615"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1624"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZC2JIYOo53g6WY3fTzVWfl3vpM/SOYMBxJc5IXewWzQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 20:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE="
+        }
+      ]
+    },
+    {
+      "Route": "YTProject.styles.css",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\653bfr1gey-orrfa6dv26.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000742942051"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1345"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PxrWuPMNgOj5QNBIzv4nhKr5E20VwiXR+kfcby6SDIw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 20:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE="
+        }
+      ]
+    },
+    {
+      "Route": "YTProject.styles.css",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\YTProject.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 20:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VOwCjAzcjthVBS+YyFpmGttVIiZWchAMG5kog3KYByE="
+        }
+      ]
+    },
+    {
+      "Route": "YTProject.styles.css.br",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\publish\\653bfr1gey-orrfa6dv26.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PxrWuPMNgOj5QNBIzv4nhKr5E20VwiXR+kfcby6SDIw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 20:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PxrWuPMNgOj5QNBIzv4nhKr5E20VwiXR+kfcby6SDIw="
+        }
+      ]
+    },
+    {
+      "Route": "YTProject.styles.css.gz",
+      "AssetFile": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\obj\\Debug\\net9.0-android\\compressed\\653bfr1gey-orrfa6dv26.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZC2JIYOo53g6WY3fTzVWfl3vpM/SOYMBxJc5IXewWzQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 20:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZC2JIYOo53g6WY3fTzVWfl3vpM/SOYMBxJc5IXewWzQ="
+        }
+      ]
+    }
+  ]
+}

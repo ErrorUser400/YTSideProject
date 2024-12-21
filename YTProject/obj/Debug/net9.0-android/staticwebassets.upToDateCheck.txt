@@ -1,0 +1,8 @@
+C:\Users\bensa\OneDrive\Documents\GitHub\YTSideProject\YTProject\wwwroot\css\app.css
+C:\Users\bensa\OneDrive\Documents\GitHub\YTSideProject\YTProject\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\bensa\OneDrive\Documents\GitHub\YTSideProject\YTProject\wwwroot\index.html
+C:\Users\bensa\OneDrive\Documents\GitHub\YTSideProject\YTProject\wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\app.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\index.html
