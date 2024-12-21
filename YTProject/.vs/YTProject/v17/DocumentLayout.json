@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bensa\\Documents\\personal site\\YTProject\\",
+  "WorkspaceRootPath": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41E1C2E3-BE84-483F-A4B2-26E7F7F89E40}|YTProject.csproj|c:\\users\\bensa\\documents\\personal site\\ytproject\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{41E1C2E3-BE84-483F-A4B2-26E7F7F89E40}|YTProject.csproj|c:\\users\\bensa\\onedrive\\documents\\github\\ytsideproject\\ytproject\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{41E1C2E3-BE84-483F-A4B2-26E7F7F89E40}|YTProject.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\bensa\\Documents\\personal site\\YTProject\\Components\\Pages\\Home.razor",
+              "DocumentMoniker": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\bensa\\Documents\\personal site\\YTProject\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
