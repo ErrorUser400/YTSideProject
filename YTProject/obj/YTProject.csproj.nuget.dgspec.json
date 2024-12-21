@@ -84,6 +84,14 @@
               "target": "Package",
               "version": "[9.0.0, )",
               "autoReferenced": true
+            },
+            "YoutubeExplode": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "YoutubeExplode.Converter": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -127,6 +135,14 @@
               "target": "Package",
               "version": "[9.0.0, )",
               "autoReferenced": true
+            },
+            "YoutubeExplode": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "YoutubeExplode.Converter": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -170,6 +186,14 @@
               "target": "Package",
               "version": "[9.0.0, )",
               "autoReferenced": true
+            },
+            "YoutubeExplode": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "YoutubeExplode.Converter": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -208,6 +232,14 @@
             "Microsoft.Maui.Controls": {
               "target": "Package",
               "version": "[9.0.21, )"
+            },
+            "YoutubeExplode": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "YoutubeExplode.Converter": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
