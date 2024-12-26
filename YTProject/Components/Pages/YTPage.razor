@@ -4,6 +4,11 @@
 @using YoutubeExplode.Converter;
 @page "/YTPage"
 
+@*
+    - currently trying to add button to load more of the list of yt videos
+    - do some ui changes
+*@
+
 <h3>YTPage</h3>
 
 @if (ErrorMessage != "")
@@ -18,20 +23,25 @@
 
 @if (VideoList is not null)
 {
-    int limit = 0;
+    int CurrLimit = 0;
     foreach (var item in VideoList)
     {
-        if (limit > 10)
+        if (CurrLimit > limit)
         {
             break;
         }
-        <div class="d-flex flex-row bd-highlight mb-3">
-            <img class="h-25 w-25" src="@item.Thumbnails[1].Url" alt="some youtube video" loading="lazy"/>
-            <div><strong>@item.Title</strong></div>
-            <div>@item.Duration</div>
+        <div class="d-flex flex-row mb-3">
+            <div class="col mr-1">
+                <img class="h-100 w-100" src="@item.Thumbnails[0].Url" alt="some youtube video" loading="lazy"/>
+            </div>
+            <div class="col ml-1">
+                <div><strong>@if (item.Title.Length > 40) { @item.Title.Substring(0,40) } else{ @item.Title}</strong></div>
+                <div>@item.Duration</div>
+            </div>
         </div>
-        limit++;
+        CurrLimit++;
     }
+    <button @onclick="() => {limit+=10;}">More</button>
 }
 else
 {
@@ -45,6 +55,7 @@ else
     public IAsyncEnumerable<VideoSearchResult> EnumVideos { get; set; } = null;
     public List<VideoSearchResult> VideoList { get; set; } = null;
     public string ErrorMessage { get; set; } = "";
+    public int limit { get; set; } = 10;
 
     protected override void OnInitialized()
     {
