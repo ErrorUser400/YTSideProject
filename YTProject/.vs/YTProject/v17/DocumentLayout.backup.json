@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41E1C2E3-BE84-483F-A4B2-26E7F7F89E40}|YTProject.csproj|c:\\users\\bensa\\onedrive\\documents\\github\\ytsideproject\\ytproject\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{41E1C2E3-BE84-483F-A4B2-26E7F7F89E40}|YTProject.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{41E1C2E3-BE84-483F-A4B2-26E7F7F89E40}|YTProject.csproj|c:\\users\\bensa\\onedrive\\documents\\github\\ytsideproject\\ytproject\\components\\pages\\ytpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{41E1C2E3-BE84-483F-A4B2-26E7F7F89E40}|YTProject.csproj|solutionrelative:components\\pages\\ytpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E1C2E3-BE84-483F-A4B2-26E7F7F89E40}|YTProject.csproj|c:\\users\\bensa\\onedrive\\documents\\github\\ytsideproject\\ytproject\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{41E1C2E3-BE84-483F-A4B2-26E7F7F89E40}|YTProject.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,41 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-21T20:18:24.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "YTPage.razor",
               "DocumentMoniker": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\Components\\Pages\\YTPage.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\YTPage.razor",
               "ToolTip": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\Components\\Pages\\YTPage.razor",
               "RelativeToolTip": "Components\\Pages\\YTPage.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvx0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-21T20:18:14.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\bensa\\OneDrive\\Documents\\GitHub\\YTSideProject\\YTProject\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBsAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-21T20:15:31.901Z",
               "EditorCaption": ""
             }
           ]

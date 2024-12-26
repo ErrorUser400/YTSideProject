@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YTProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+1ddbb3ff98af99a24bbba2244ac0bfe5b001006e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+36762f43a1553f35fd64e765e4dbad48c2487a50")]
 [assembly: System.Reflection.AssemblyProductAttribute("YTProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YTProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

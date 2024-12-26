@@ -1,7 +1,83 @@
-﻿@page "/YTPage"
+﻿@using YoutubeExplode;
+@using YoutubeExplode.Videos;
+@using YoutubeExplode.Search;
+@using YoutubeExplode.Converter;
+@page "/YTPage"
 
 <h3>YTPage</h3>
 
-@code {
+@if (ErrorMessage != "")
+{
+    <div>@ErrorMessage</div>
+}
 
+<form @onsubmit="SearchYT" @formname="YTSearch">
+    <input type="text" @bind-value="userInput" />
+    <button type="submit">Submit</button>
+</form>
+
+@if (VideoList is not null)
+{
+    int limit = 0;
+    foreach (var item in VideoList)
+    {
+        if (limit > 10)
+        {
+            break;
+        }
+        <div class="d-flex flex-row bd-highlight mb-3">
+            <img class="h-25 w-25" src="@item.Thumbnails[1].Url" alt="some youtube video" loading="lazy"/>
+            <div><strong>@item.Title</strong></div>
+            <div>@item.Duration</div>
+        </div>
+        limit++;
+    }
+}
+else
+{
+    <div>Nothing to see here</div>
+}
+
+@code {
+    [SupplyParameterFromForm]
+    public string? userInput { get; set; } = "";
+    public YoutubeClient youtube;
+    public IAsyncEnumerable<VideoSearchResult> EnumVideos { get; set; } = null;
+    public List<VideoSearchResult> VideoList { get; set; } = null;
+    public string ErrorMessage { get; set; } = "";
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        youtube = new YoutubeClient();
+
+    }
+
+    public async Task SearchYT()
+    {
+        await Task.Run(() =>
+        {
+            try
+            {
+                EnumVideos = youtube.Search.GetVideosAsync(userInput);
+            }
+            catch(Exception e)
+            {
+                ErrorMessage = e.Message;
+            }
+        });
+
+        EnumToList();
+    }
+
+    public async void EnumToList()
+    {
+        VideoList = new();
+
+        await foreach (var item in EnumVideos)
+        {
+            VideoList.Add(item);
+            this.StateHasChanged();
+        }
+    }
 }
